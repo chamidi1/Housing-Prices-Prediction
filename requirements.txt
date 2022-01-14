@@ -1,0 +1,12 @@
+opencv-python
+         numpy
+         imutils
+         PyJWT
+         werkzeug
+         boto3
+         SQLAlchemy
+         Flask-SQLAlchemy
+         Flask
+         pytesseract
+         Flask-Cors
+         pymysql
